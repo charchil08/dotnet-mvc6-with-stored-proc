@@ -1,0 +1,5 @@
+C:\itERSem8\Project\Demo\CollegeApp\CollegeApp.Services\obj\Debug\net6.0\CollegeApp.Services.csproj.AssemblyReference.cache
+C:\itERSem8\Project\Demo\CollegeApp\CollegeApp.Services\obj\Debug\net6.0\CollegeApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\itERSem8\Project\Demo\CollegeApp\CollegeApp.Services\obj\Debug\net6.0\CollegeApp.Services.AssemblyInfoInputs.cache
+C:\itERSem8\Project\Demo\CollegeApp\CollegeApp.Services\obj\Debug\net6.0\CollegeApp.Services.AssemblyInfo.cs
+C:\itERSem8\Project\Demo\CollegeApp\CollegeApp.Services\obj\Debug\net6.0\CollegeApp.Services.csproj.CoreCompileInputs.cache

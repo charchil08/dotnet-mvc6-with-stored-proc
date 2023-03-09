@@ -1,0 +1,14 @@
+C:\itERSem8\Project\Demo\CollegeApp\CollegeApp.Entities\bin\Debug\net6.0\CollegeApp.Entities.deps.json
+C:\itERSem8\Project\Demo\CollegeApp\CollegeApp.Entities\bin\Debug\net6.0\CollegeApp.Entities.runtimeconfig.json
+C:\itERSem8\Project\Demo\CollegeApp\CollegeApp.Entities\bin\Debug\net6.0\CollegeApp.Entities.dll
+C:\itERSem8\Project\Demo\CollegeApp\CollegeApp.Entities\bin\Debug\net6.0\CollegeApp.Entities.pdb
+C:\itERSem8\Project\Demo\CollegeApp\CollegeApp.Entities\obj\Debug\net6.0\CollegeApp.Entities.csproj.AssemblyReference.cache
+C:\itERSem8\Project\Demo\CollegeApp\CollegeApp.Entities\obj\Debug\net6.0\CollegeApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\itERSem8\Project\Demo\CollegeApp\CollegeApp.Entities\obj\Debug\net6.0\CollegeApp.Entities.AssemblyInfoInputs.cache
+C:\itERSem8\Project\Demo\CollegeApp\CollegeApp.Entities\obj\Debug\net6.0\CollegeApp.Entities.AssemblyInfo.cs
+C:\itERSem8\Project\Demo\CollegeApp\CollegeApp.Entities\obj\Debug\net6.0\CollegeApp.Entities.csproj.CoreCompileInputs.cache
+C:\itERSem8\Project\Demo\CollegeApp\CollegeApp.Entities\obj\Debug\net6.0\CollegeApp.Entities.dll
+C:\itERSem8\Project\Demo\CollegeApp\CollegeApp.Entities\obj\Debug\net6.0\refint\CollegeApp.Entities.dll
+C:\itERSem8\Project\Demo\CollegeApp\CollegeApp.Entities\obj\Debug\net6.0\CollegeApp.Entities.pdb
+C:\itERSem8\Project\Demo\CollegeApp\CollegeApp.Entities\obj\Debug\net6.0\CollegeApp.Entities.genruntimeconfig.cache
+C:\itERSem8\Project\Demo\CollegeApp\CollegeApp.Entities\obj\Debug\net6.0\ref\CollegeApp.Entities.dll
